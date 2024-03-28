@@ -10,4 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	// 아 집가고싶다
+
 }
